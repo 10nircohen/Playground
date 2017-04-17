@@ -1,0 +1,9 @@
+NFL
+---
+
+NFC North
+---------
+Green Bay Packers
+Minnesota Vikings
+Chicago Bears
+Detroit Lions
