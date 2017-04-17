@@ -1,8 +1,8 @@
 NFC
 
-Dallas Cowboys
-Atlanta Falcons
-Seattle Seahawks
-Green Bay Packers
-New York Giants
-Detroit Lions
+Dallas Cowboys      Dak Prescott
+Atlanta Falcons     Matt Ryan
+Seattle Seahawks    Russell Wilson
+Green Bay Packers   Aaron Rodgers
+New York Giants     Eli Manning
+Detroit Lions       Matthew Stafford
