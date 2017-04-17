@@ -1,8 +1,8 @@
 AFC
 
-New England Patriots
-Kansas City Chiefs
-Pittsburgh Steelers
-Houston Texans
-Oakland Raiders
-Miami Dolphins
+New England Patriots  Tom Brady
+Kansas City Chiefs    Alex Smith
+Pittsburgh Steelers   Ben Roethlisberger
+Houston Texans        Tom Savage
+Oakland Raiders       Derek Carr
+Miami Dolphins        Ryan Tannehill
