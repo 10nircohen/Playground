@@ -10,3 +10,6 @@ Detroit Lions       Matthew Stafford
 Tampa Bay Buccaneers
 New Orleans Saints
 Carolina Panthers
+
+Chicago Bears
+Minnesota Vikings
