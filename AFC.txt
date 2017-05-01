@@ -1,15 +1,15 @@
 AFC
 
-New England Patriots  Tom Brady
-Kansas City Chiefs    Alex Smith
-Pittsburgh Steelers   Ben Roethlisberger
-Houston Texans        Dashaun Watson (QB)
-Oakland Raiders       Derek Carr
-Miami Dolphins        Ryan Tannehill
+NE  	Tom Brady
+KC    	Alex Smith
+PIT   	Ben Roethlisberger
+HOU   	Dashaun Watson (QB)
+OAK    	Derek Carr
+MIA    	Ryan Tannehill
 
-Jacksonville Jaguars
-Tennessee Titans
-Indianapolis Colts
+JAX		Blake Bortles
+TEN		Marcus Mariota
+IND		Andrew Luck
 
-NYJ
-BUF
+NYJ		TBD
+BUF		Tyrod Taylor
