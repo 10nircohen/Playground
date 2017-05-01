@@ -1,22 +1,24 @@
 NFC
+====	==
+Team	QB
+====	==
 
-Dallas Cowboys      Dak Prescott
-Atlanta Falcons     Matt Ryan
-Seattle Seahawks    Russell Wilson
-Green Bay Packers   Aaron Rodgers
-New York Giants     Eli Manning
-Detroit Lions       Matthew Stafford
+DAL     Dak Prescott
+NYG     Eli Manning
+PHI		Carson Wentz
+WAS		Kirk Cousins
 
-Tampa Bay Buccaneers
-New Orleans Saints
-Carolina Panthers
+GB  	Aaron Rodgers
+DET     Matthew Stafford
+CHI		Mike Glennon
+MIN		Sam Bradford
 
-Chicago Bears
-Minnesota Vikings
+ATL     Matt Ryan
+TB 		Jamies Winston
+NO		Drew Brees
+CAR		Cam Newton
 
-Washington Redskins
-Philadelphia Eagles
-
-Arizona Cardinals
-San Francisco 49ers
-Los Angeles Rams
+SEA    	Russell Wilson
+ARI		Carson Palmer
+SF		Brian Hoyer
+LA		Jared Goff

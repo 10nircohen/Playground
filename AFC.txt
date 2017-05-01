@@ -1,15 +1,24 @@
 AFC
+====	==
+Team	QB
+====	==
 
-New England Patriots  Tom Brady
-Kansas City Chiefs    Alex Smith
-Pittsburgh Steelers   Ben Roethlisberger
-Houston Texans        Tom Savage
-Oakland Raiders       Derek Carr
-Miami Dolphins        Ryan Tannehill
+HOU   	Dashaun Watson
+JAX		Blake Bortles
+TEN		Marcus Mariota
+IND		Andrew Luck
 
-Jacksonville Jaguars
-Tennessee Titans
-Indianapolis Colts
+PIT   	Ben Roethlisberger
+BAL		Joe Flacco
+CIN		Andy Dalton
+CLE		DaShaune Kizer
 
-NYJ
-BUF
+NE  	Tom Brady
+MIA    	Ryan Tannehill
+NYJ		TBD
+BUF		Tyrod Taylor
+
+KC    	Alex Smith
+DEN		Trevor Simian
+OAK    	Derek Carr
+SD		Philip Rivers
