@@ -1,15 +1,25 @@
 AFC
+---
 
-NE  	Tom Brady
-KC    	Alex Smith
-PIT   	Ben Roethlisberger
-HOU   	Dashaun Watson (QB)
-OAK    	Derek Carr
-MIA    	Ryan Tannehill
-
+Team	QB
+=====	==
+HOU   	Dashaun Watson
 JAX		Blake Bortles
 TEN		Marcus Mariota
 IND		Andrew Luck
-
+============================
+PIT   	Ben Roethlisberger
+BAL		Joe Flacco
+CIN		Andy Dalton
+CLE		DaShaune Kizer
+============================
+NE  	Tom Brady
+MIA    	Ryan Tannehill
 NYJ		TBD
 BUF		Tyrod Taylor
+============================
+KC    	Alex Smith
+DEN		Trevor Simian
+OAK    	Derek Carr
+SD		Philip Rivers
+============================
