@@ -1,24 +1,24 @@
 NFC
-====	==
-Team	QB
-====	==
+====    ==
+Team    QB
+====    ==
 
 DAL     Dak Prescott
 NYG     Eli Manning
-PHI		Carson Wentz
-WAS		Kirk Cousins
+PHI     Carson Wentz
+WAS     Kirk Cousins
 
-GB  	Aaron Rodgers
+GB      Aaron Rodgers
 DET     Matthew Stafford
-CHI		Mike Glennon
-MIN		Sam Bradford
+CHI     Mike Glennon
+MIN     Sam Bradford
 
 ATL     Matt Ryan
-TB 		Jamies Winston
-NO		Drew Brees
-CAR		Cam Newton
+TB      Jamies Winston
+NO      Drew Brees
+CAR     Cam Newton
 
-SEA    	Russell Wilson
-ARI		Carson Palmer
-SF		Brian Hoyer
-LA		Jared Goff
+SEA     Russell Wilson
+ARI     Carson Palmer
+SF      Brian Hoyer
+LA      Jared Goff

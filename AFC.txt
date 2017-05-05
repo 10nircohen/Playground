@@ -1,24 +1,24 @@
 AFC
-====	==
-Team	QB
-====	==
+====    ==
+Team    QB
+====    ==
 
-HOU   	Dashaun Watson
-JAX		Blake Bortles
-TEN		Marcus Mariota
-IND		Andrew Luck
+HOU     Dashaun Watson
+JAX     Blake Bortles
+TEN     Marcus Mariota
+IND     Andrew Luck
 
-PIT   	Ben Roethlisberger
-BAL		Joe Flacco
-CIN		Andy Dalton
-CLE		DaShaune Kizer
+PIT     Ben Roethlisberger
+BAL     Joe Flacco
+CIN     Andy Dalton
+CLE     DaShaune Kizer
 
-NE  	Tom Brady
-MIA    	Ryan Tannehill
-NYJ		TBD
-BUF		Tyrod Taylor
+NE      Tom Brady
+MIA     Ryan Tannehill
+NYJ     TBD
+BUF     Tyrod Taylor
 
-KC    	Alex Smith
-DEN		Trevor Simian
-OAK    	Derek Carr
-SD		Philip Rivers
+KC      Alex Smith
+DEN     Trevor Simian
+OAK     Derek Carr
+SD      Philip Rivers
